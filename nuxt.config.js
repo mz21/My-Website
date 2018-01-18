@@ -2,12 +2,18 @@ module.exports = {
   /*
   ** Headers of the page
   */
+  modules: [
+    // Simple usage
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-111805343-1'
+    }]
+  ],
   head: {
-    title: 'intbook',
+    title: 'Bits of That',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'An interactive book on making websites' }
+      { hid: 'description', name: 'description', content: 'An interactive book on everything' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
