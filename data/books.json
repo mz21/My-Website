@@ -1,0 +1,608 @@
+{
+  "books": [
+    {
+      "title": "Poor Economics",
+      "author": [""],
+      "url": "https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938",
+      "rank": 1,
+      "rating": 5,
+      "genre": "Poverty"
+    },
+    {
+      "title": "An American Sickness",
+      "author": ["Elisabeth Rosenthal"],
+      "url": "https://www.amazon.com/American-Sickness-Healthcare-Became-Business/dp/1594206759",
+      "rank": 2,
+      "rating": 5,
+      "genre": "Institutions"
+    },
+    {
+      "title": "The Center Cannot Hold",
+      "author": [""],
+      "url": "https://www.amazon.com/Center-Cannot-Hold-Journey-Through/dp/1401309445",
+      "rank": 3,
+      "rating": 5,
+      "genre": "Biographies",
+      "friend": true
+    },
+    {
+      "title": "Just Mercy",
+      "author": [""],
+      "url": "https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X",
+      "rank": 4,
+      "rating": 5,
+      "genre": "Biographies"
+    },
+    {
+      "title": "Evicted",
+      "author": [""],
+      "url": "https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447459",
+      "rank": 5,
+      "rating": 5,
+      "genre": "Institutions",
+      "friend": true
+    },
+    {
+      "title": "Women in Clothes",
+      "author": [""],
+      "url": "https://www.amazon.com/Women-Clothes-Sheila-Heti/dp/0399166564/",
+      "rank": 6,
+      "rating": 5,
+      "genre": "Grab Bag",
+      "friend": true
+    },
+    {
+      "title": "How to Talk to Anyone: 92 Little Tricks",
+      "author": [""],
+      "url": "https://www.amazon.com/How-Talk-Anyone-Success-Relationships/dp/007141858X",
+      "rank": 7,
+      "rating": 5,
+      "genre": "Self-Improvement Porn",
+      "friend": true
+    },
+    {
+      "title": "Hands-On Machine Learning with TensorFlow",
+      "author": [""],
+      "url": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291",
+      "rank": 8,
+      "rating": 5,
+      "genre": "Comp Sci"
+    },
+    {
+      "title": "The Argonauts",
+      "author": [""],
+      "url": "https://www.amazon.com/Argonauts-Maggie-Nelson/dp/1555977359",
+      "rank": 9,
+      "rating": 5,
+      "genre": "Biographies",
+      "friend": true
+    },
+    {
+      "title": "Born a Crime",
+      "author": [""],
+      "url": "https://www.amazon.com/Born-Crime-Stories-African-Childhood/dp/0399588175",
+      "rank": 10,
+      "rating": 5,
+      "genre": "Biographies",
+      "friend": true
+    },
+    {
+      "title": "Russ & Daughters: The House That Herring Built",
+      "author": [""],
+      "url": "https://www.amazon.com/Russ-Daughters-Reflections-Recipes-Herring/dp/0805242945",
+      "rank": 11,
+      "rating": 4,
+      "genre": "Biographies"
+    },
+    {
+      "title": "Portfolios of the Poor",
+      "author": [""],
+      "url": "https://www.amazon.com/Portfolios-Poor-How-Worlds-Live/dp/0691148198",
+      "rank": 12,
+      "rating": 4,
+      "genre": "Poverty",
+      "friend": true
+    },
+    {
+      "title": "Effective JavaScript",
+      "author": [""],
+      "url": "https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182",
+      "rank": 13,
+      "rating": 4,
+      "genre": "Comp Sci"
+    },
+    {
+      "title": "The Power of Habit",
+      "author": [""],
+      "url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X",
+      "rank": 14,
+      "rating": 4,
+      "genre": "Psychology",
+      "friend": true
+    },
+    {
+      "title": "Investing in Your 20s & 30s for Dummies",
+      "author": [""],
+      "url": "https://www.amazon.com/Investing-Your-20s-30s-Dummies/dp/1119293413",
+      "rank": 15,
+      "rating": 4,
+      "genre": "Grab Bag"
+    },
+    {
+      "title": "Why Nations Fail",
+      "author": [""],
+      "url": "",
+      "rank": 16,
+      "rating": 4,
+      "genre": "Institutions"
+    },
+    {
+      "title": "The Field Guide to Human-Centered Design",
+      "author": [""],
+      "url": "http://www.designkit.org/resources/1",
+      "rank": 17,
+      "rating": 4,
+      "genre": "Design"
+    },
+    {
+      "title": "Ruby Design Patterns",
+      "author": [""],
+      "url": "",
+      "rank": 18,
+      "rating": 4,
+      "genre": "Comp Sci",
+      "friend": true
+    },
+    {
+      "title": "Between the World & Me",
+      "author": [""],
+      "url": "",
+      "rank": 19,
+      "rating": 4,
+      "genre": "Institutions",
+      "friend": true
+    },
+    {
+      "title": "The Art of Making Gelato",
+      "author": [""],
+      "url": "https://www.amazon.com/Art-Making-Gelato-Flavors-Make/dp/1937994449",
+      "rank": 20,
+      "rating": 4,
+      "genre": "Cookbooks"
+    },
+    {
+      "title": "Designing Your Life",
+      "author": [""],
+      "url": "",
+      "rank": 21,
+      "rating": 4,
+      "genre": "Grab Bag",
+      "friend": true
+    },
+    {
+      "title": "Running Lean",
+      "author": [""],
+      "url": "",
+      "rank": 22,
+      "rating": 4,
+      "genre": "Startup Chops"
+    },
+    {
+      "title": "The Smartest Kids in the World",
+      "author": [""],
+      "url": "https://www.amazon.com/Smartest-Kids-World-They-That/dp/145165443X",
+      "rank": 23,
+      "rating": 4,
+      "genre": "Institutions"
+    },
+    {
+      "title": "Being Mortal",
+      "author": ["Atul Gawande"],
+      "url": "https://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/1250076226",
+      "rank": 24,
+      "rating": 4,
+      "genre": "Grab Bag"
+    },
+    {
+      "title": "The Life and Games of Mikhail Tal",
+      "author": [""],
+      "url": "https://www.amazon.com/Life-Games-Mikhail-Tal/dp/1857442024",
+      "rank": 25,
+      "rating": 4,
+      "genre": "Biographies",
+      "friend": true
+    },
+    {
+      "title": "Never Split the Difference",
+      "author": [""],
+      "url": "",
+      "rank": 26,
+      "rating": 4,
+      "genre": "Self-Improvement Porn",
+      "friend": true
+    },
+    {
+      "title": "SEO 2018",
+      "author": ["Adam Clarke"],
+      "url": "https://www.amazon.com/Search-Optimization-Internet-Marketing-Strateg/dp/1979286973",
+      "rank": 27,
+      "rating": 4,
+      "genre": "Startup Chops"
+    },
+    {
+      "title": "Make It Stick",
+      "author": [""],
+      "url": "",
+      "rank": 28,
+      "rating": 4,
+      "genre": "Psychology"
+    },
+    {
+      "title": "The Perfect Scoop",
+      "author": ["David Lebovitz"],
+      "url": "https://www.amazon.com/Perfect-Scoop-Revised-Updated-Accompaniments/dp/039958031X",
+      "rank": 29,
+      "rating": 4,
+      "genre": "Cookbooks"
+    },
+    {
+      "title": "Zero to One",
+      "author": ["Peter Thiel"],
+      "url": "",
+      "rank": 30,
+      "rating": 3,
+      "genre": "Startup Chops"
+    },
+    {
+      "title": "$2.00 a Day",
+      "author": [""],
+      "url": "https://www.amazon.com/2-00-Day-Living-Nothing-America/dp/054481195X",
+      "rank": 31,
+      "rating": 3,
+      "genre": "Poverty"
+    },
+    {
+      "title": "Originals",
+      "author": ["Adam Grant"],
+      "url": "",
+      "rank": 32,
+      "rating": 3,
+      "genre": "Institutions"
+    },
+    {
+      "title": "Style Drivers",
+      "author": ["Russell Westbrook"],
+      "url": "",
+      "rank": 33,
+      "rating": 3,
+      "genre": "Grab Bag"
+    },
+    {
+      "title": "Poor Numbers",
+      "author": [""],
+      "url": "",
+      "rank": 34,
+      "rating": 3,
+      "genre": "Institutions"
+    },
+    {
+      "title": "The Frankies Spuntino Kitchen Companion",
+      "author": [""],
+      "url": "https://www.amazon.com/Frankies-Spuntino-Kitchen-Companion-Cooking/dp/1579654150",
+      "rank": 35,
+      "rating": 3,
+      "genre": "Cookbooks"
+    },
+    {
+      "title": "Os Contos de Beedle o Bardo",
+      "author": ["J.K. Rowling"],
+      "url": "https://www.fnac.pt/Os-Contos-de-Beedle-o-Bardo-J-K-Rowling/a232298",
+      "rank": 36,
+      "rating": 3,
+      "genre": "Grab Bag",
+      "fiction": true
+    },
+    {
+      "title": "Almost a Family: A Memoir",
+      "author": ["John Darnton"],
+      "url": "https://www.amazon.com/Almost-Family-Memoir-John-Darnton/dp/0307278808",
+      "rank": 37,
+      "rating": 3,
+      "genre": "Biographies",
+      "friend": true
+    },
+    {
+      "title": "Hooked",
+      "author": [""],
+      "url": "",
+      "rank": 38,
+      "rating": 3,
+      "genre": "Startup Chops"
+    },
+    {
+      "title": "Fluent Forever",
+      "author": [""],
+      "url": "",
+      "rank": 39,
+      "rating": 3,
+      "genre": "Self-Improvement Porn"
+    },
+    {
+      "title": "UX Strategy",
+      "author": ["Jaime Levy"],
+      "url": "https://www.amazon.com/UX-Strategy-Innovative-Digital-Products/dp/1449372864",
+      "rank": 40,
+      "rating": 3,
+      "genre": "Design"
+    },
+    {
+      "title": "Nudge",
+      "author": [""],
+      "url": "",
+      "rank": 41,
+      "rating": 3,
+      "genre": "Design"
+    },
+    {
+      "title": "Dollars and Sense",
+      "author": ["Dan Ariely"],
+      "url": "https://www.amazon.com/Dollars-Sense-Misthink-Money-Smarter/dp/006265120X",
+      "rank": 42,
+      "rating": 3,
+      "genre": "Psychology"
+    },
+    {
+      "title": "Secret Sauce: Growth Hacking",
+      "author": ["Austin Allred", "Vin Clancy"],
+      "url": "https://www.amazon.com/Secret-Sauce-Ultimate-Growth-Hacking/dp/1635877393",
+      "rank": 43,
+      "rating": 3,
+      "genre": "Startup Chops"
+    },
+    {
+      "title": "Peak",
+      "author": ["Anders Ericsson", "Robert Pool"],
+      "url": "https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223",
+      "rank": 44,
+      "rating": 3,
+      "genre": "Psychology"
+    },
+    {
+      "title": "When Strangers Meet",
+      "author": ["Kio Stark"],
+      "url": "https://www.amazon.com/When-Strangers-Meet-People-Transform/dp/1501119982",
+      "rank": 45,
+      "rating": 3,
+      "genre": "Grab Bag"
+    },
+    {
+      "title": "The Talent Code",
+      "author": [""],
+      "url": "",
+      "rank": 46,
+      "rating": 3,
+      "genre": "Psychology"
+    },
+    {
+      "title": "A Thousand Hills: Rwanda's Rebirth",
+      "author": ["Stephen Kinzer"],
+      "url": "https://www.amazon.com/Thousand-Hills-Rwandas-Rebirth-Dreamed/dp/0470120150",
+      "rank": 47,
+      "rating": 3,
+      "genre": "Institutions"
+    },
+    {
+      "title": "Cities in a World Economy",
+      "author": ["Saskia Sassen"],
+      "url": "",
+      "rank": 48,
+      "rating": 3,
+      "genre": "Institutions"
+    },
+    {
+      "title": "Deep Work",
+      "author": ["Cal Newport"],
+      "url": "",
+      "rank": 49,
+      "rating": 3,
+      "genre": "Self-Improvement Porn"
+    },
+    {
+      "title": "Give and Take",
+      "author": [""],
+      "url": "",
+      "rank": 50,
+      "rating": 3,
+      "genre": "Psychology"
+    },
+    {
+      "title": "Hillbilly Elegy",
+      "author": [""],
+      "url": "",
+      "rank": 51,
+      "rating": 3,
+      "genre": "Biographies",
+      "amazon": true
+    },
+    {
+      "title": "America's Bitter Pill",
+      "author": [""],
+      "url": "",
+      "rank": 52,
+      "rating": 3,
+      "genre": "Institutions"
+    },
+    {
+      "title": "Creative Confidence",
+      "author": [""],
+      "url": "",
+      "rank": 53,
+      "rating": 3,
+      "genre": "Design"
+    },
+    {
+      "title": "A Full Life: Reflections at 90",
+      "author": ["Jimmy Carter"],
+      "url": "",
+      "rank": 54,
+      "rating": 3,
+      "genre": "Biographies"
+    },
+    {
+      "title": "Atomic Design",
+      "author": ["Brad Frost"],
+      "url": "",
+      "rank": 55,
+      "rating": 3,
+      "genre": "Design"
+    },
+    {
+      "title": "Sapiens",
+      "author": [""],
+      "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095",
+      "rank": 56,
+      "rating": 3,
+      "genre": "Institutions"
+    },
+    {
+      "title": "Russell Westbrook: The Inspiring Story",
+      "author": [""],
+      "url": "",
+      "rank": 57,
+      "rating": 3,
+      "genre": "Biographies"
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "author": ["Alan Foster"],
+      "url": "https://www.amazon.com/Force-Awakens-Star-Wars/dp/1101966998",
+      "rank": 58,
+      "rating": 3,
+      "genre": "Grab Bag",
+      "fiction": true
+    },
+    {
+      "title": "A Critique of Capital in the 21st Century",
+      "author": [""],
+      "url": "https://www.amazon.com/Critique-Capital-Twenty-Century-author/dp/1505211468",
+      "rank": 59,
+      "rating": 3,
+      "genre": "Poverty"
+    },
+    {
+      "title": "High Performance JavaScript",
+      "author": ["Nicholas Zakas"],
+      "url": "",
+      "rank": 60,
+      "rating": 3,
+      "genre": "Comp Sci"
+    },
+    {
+      "title": "Learning React Native",
+      "author": [""],
+      "url": "",
+      "rank": 61,
+      "rating": 3,
+      "genre": "Comp Sci"
+    },
+    {
+      "title": "Captivate",
+      "author": ["Vanessa Van Edwards"],
+      "url": "https://www.amazon.com/Captivate-Succeeding-Vanessa-Van-Edwards/dp/0399564489",
+      "rank": 62,
+      "rating": 2,
+      "genre": "Self-Improvement Porn"
+    },
+    {
+      "title": "Habit Stacking",
+      "author": [""],
+      "url": "",
+      "rank": 63,
+      "rating": 2,
+      "genre": "Self-Improvement Porn"
+    },
+    {
+      "title": "The Charisma Myth",
+      "author": [""],
+      "url": "",
+      "rank": 64,
+      "rating": 2,
+      "genre": "Self-Improvement Porn"
+    },
+    {
+      "title": "Thing Explainer",
+      "author": [""],
+      "url": "",
+      "rank": 65,
+      "rating": 2,
+      "genre": "Grab Bag"
+    },
+    {
+      "title": "Mindset",
+      "author": [""],
+      "url": "",
+      "rank": 66,
+      "rating": 2,
+      "genre": "Psychology",
+      "amazon": true
+    },
+    {
+      "title": "Scaling Lean",
+      "author": [""],
+      "url": "",
+      "rank": 67,
+      "rating": 2,
+      "genre": "Startup Chops"
+    },
+    {
+      "title": "Irresistible: The Rise of Addictive Technology",
+      "author": ["Adam Alter"],
+      "url": "https://www.amazon.com/Irresistible-Addictive-Technology-Business-Keeping/dp/1594206643",
+      "rank": 68,
+      "rating": 2,
+      "genre": "Psychology"
+    },
+    {
+      "title": "The Visual Display of Quantitative Information",
+      "author": [""],
+      "url": "",
+      "rank": 69,
+      "rating": 2,
+      "genre": "Design"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a Fuck",
+      "author": [""],
+      "url": "",
+      "rank": 70,
+      "rating": 2,
+      "genre": "Self-Improvement Porn",
+      "amazon": true
+    },
+    {
+      "title": "Ample Hills Creamery",
+      "author": [""],
+      "url": "https://www.amazon.com/Ample-Hills-Creamery-Brooklyns-Favorite/dp/1617690767",
+      "rank": 71,
+      "rating": 2,
+      "genre": "Cookbooks"
+    },
+    {
+      "title": "Node.js Design Patterns",
+      "author": [""],
+      "url": "https://www.amazon.com/Node-js-Design-Patterns-server-side-applications/dp/1785885588",
+      "rank": 72,
+      "rating": 1,
+      "genre": "Comp Sci"
+    },
+    {
+      "title": "The 4-Hour Workweek",
+      "author": ["Timothy Ferriss"],
+      "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357",
+      "rank": 73,
+      "rating": 1,
+      "genre": "Self-Improvement Porn",
+      "amazon": true
+    }
+  ]
+}
