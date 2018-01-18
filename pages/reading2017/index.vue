@@ -36,7 +36,7 @@
       <div class="scroll_button_box">
         <div class="scroll_button" v-show="!toShow">
           <p>Navigate with</p>
-          <p>up/down arrows</p>
+          <p>up/down keys</p>
           <img :src="downArrow" width="32px" height="auto"/>
         </div>
       </div>
