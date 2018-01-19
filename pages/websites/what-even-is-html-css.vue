@@ -16,8 +16,8 @@ import hljs from 'highlight.js'
 import txt from '@/assets/webbook/test.txt'
 
 export default {
-  console.log(txt)
   data() {
+    console.log(txt)
     return {
       template: txt
     }
