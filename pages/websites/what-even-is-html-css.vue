@@ -17,9 +17,16 @@ import txt from '@/assets/webbook/test.txt'
 
 export default {
   data() {
-    console.log(txt)
     return {
-      template: txt
+      template: `function Panel(element, canClose, closeHandler) {
+        console.log('hey');
+        this.element = element;
+        this.canClose = canClose;
+        this.closeHandler = function() {
+          if (closeHandler) closeHandler()
+        };
+      }
+`
     }
   }
 }
