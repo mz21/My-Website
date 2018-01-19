@@ -28,7 +28,7 @@ export default {
 </script>
 <style lang="sass">
 #app, body
-  overflow: auto
+  overflow: hidden
 #home_wrapper
   width: 100%
   height: 100%

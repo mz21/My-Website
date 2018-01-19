@@ -15,6 +15,9 @@ html, body
   -moz-osx-font-smoothing: grayscale
 div
   box-sizing: inherit
+  height: 100%
+pre
+  margin: 0
 h1, h2, h3, h4, h5, h6, p, a
   margin: 0
 </style>

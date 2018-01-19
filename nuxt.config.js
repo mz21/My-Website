@@ -2,6 +2,7 @@ module.exports = {
   /*
   ** Headers of the page
   */
+  plugins: ['~/plugins/vue-highlightjs'],
   modules: [
     // Simple usage
     ['@nuxtjs/google-analytics', {
@@ -37,6 +38,10 @@ module.exports = {
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
           exclude: /(node_modules)/
+        })
+        config.module.rules.push({
+          test: /\.txt$/,
+          use: 'raw-loader'
         })
       }
     }
