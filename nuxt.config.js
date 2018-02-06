@@ -2,7 +2,7 @@ module.exports = {
   /*
   ** Headers of the page
   */
-  plugins: ['~/plugins/vue-highlightjs'],
+  plugins: [],
   modules: [
     // Simple usage
     ['@nuxtjs/google-analytics', {
@@ -18,8 +18,19 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      {
+        src: '/amplitude.js'
+      }
     ]
   },
+  css: [
+    '@/assets/css/sanitize.css',
+    '@/assets/css/github.css',
+    // SCSS file in the project
+    '@/assets/css/main.sass'
+  ],
   /*
   ** Customize the progress bar color
   */
@@ -39,11 +50,17 @@ module.exports = {
           loader: 'eslint-loader',
           exclude: /(node_modules)/
         })
-        config.module.rules.push({
-          test: /\.txt$/,
-          use: 'raw-loader'
-        })
       }
+      config.module.rules.push({
+        test: /\.txt$/,
+        use: 'raw-loader',
+        exclude: /(node_modules)/
+      })
+      config.module.rules.push({
+        test: /\.csv$/,
+        use: 'file-loader',
+        exclude: /(node_modules)/
+      })
     }
   }
 }

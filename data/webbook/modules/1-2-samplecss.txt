@@ -1,0 +1,14 @@
+<div class="highlight"><pre><span></span><span class="p">#</span><span class="nn">intro-message</span> <span class="p">{</span>
+  <span class="k">font-size</span><span class="p">:</span> <span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">tagline</span> <span class="p">{</span>
+  <span class="k">font-size</span><span class="p">:</span> <span class="mi">14</span><span class="kt">px</span><span class="p">;</span>
+  <span class="k">color</span><span class="p">:</span> <span class="kc">green</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span> <span class="p">{</span>
+  <span class="k">font-family</span><span class="p">:</span> <span class="s1">&#39;Helvetica&#39;</span><span class="p">,</span> <span class="s1">&#39;sans-serif&#39;</span><span class="p">;</span>
+<span class="p">}</span>
+</pre>
+</div>

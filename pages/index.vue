@@ -54,7 +54,7 @@ export default {
       font-size: 24px
       font-weight: 500
     p
-      font-size: 14px
+      font-size: 15px
       font-weight: 400
     .footnote
       margin-top: 10px

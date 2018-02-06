@@ -390,7 +390,7 @@ export default {
 .nav_sections
   p
     width: 100%
-    font-size: 14px
+    font-size: 15px
     font-weight: 500
     margin-bottom: 8px
 .nav_circle
@@ -541,5 +541,5 @@ export default {
   z-index: 100000000
   .is_mobile
     p
-      font-size: 14px
+      font-size: 15px
 </style>

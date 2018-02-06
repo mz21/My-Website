@@ -1,0 +1,12 @@
+#intro-message {
+  font-size: 20px;
+}
+
+.tagline {
+  font-size: 15px;
+  color: green;
+}
+
+p {
+  font-family: 'Helvetica', 'sans-serif';
+}
