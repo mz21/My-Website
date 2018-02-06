@@ -1,6 +1,6 @@
 # dependencies
 node_modules
-assets/fonts
+# assets/fonts
 # logs
 npm-debug.log
 
