@@ -68,7 +68,7 @@ export default {
 <style lang="sass">
 .container
   height: 100vh
-  background: rgb(255,230,235)
+  background: whitesmoke
 iframe
   display: block !important
   box-shadow: 0px 1px 2px rgba(200,200,200,0.5)
